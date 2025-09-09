@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/khushboo-verma-02b265253/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Khushboo-Verma2004">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 ---
