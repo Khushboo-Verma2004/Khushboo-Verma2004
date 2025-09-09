@@ -1,42 +1,68 @@
-## Hi there 👋
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1ABC9C&center=true&vCenter=true&width=500&lines=Khushboo+Verma;Computer+Science+with+AI;Machine+Learning+%7C+Generative+AI;Developer+%7C+Researcher)](https://git.io/typing-svg)
 
-[LinkedIn](https://www.linkedin.com/in/khushboo-verma-02b265253/)
-
-I am a Computer Science undergraduate specializing in Artificial Intelligence at Indira Gandhi Delhi Technical University for Women.  
-My interests lie in machine learning, generative AI, and building practical applications that combine research with development.
-
-## Skills
-- **Languages:** Java, Python, JavaScript, R, SQL, HTML/CSS  
-- **Frameworks & Tools:** FastAPI, Spring Boot, Docker, GitLab CI/CD, Azure, MLflow  
-- **Focus Areas:** Machine Learning, Generative AI, LLMs, UI/UX Design, Frontend Development  
+</div>
 
 ---
 
-## Featured Projects
-- **[AI-Playwright Integration](https://github.com/Khushboo-Verma2004/AI-Playwright-Integration)**  
-  Converts natural language instructions into executable Playwright test scripts using the Gemini API.  
+<div id="header" align="center">
+  <a href="https://www.linkedin.com/in/khushboo-verma-02b265253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:khushboo.verma2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Khushboo-Verma2004">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-- **[VakilAI](https://vakilai-amk-platform.onrender.com)**  
-  AI-powered legal document assistant with multilingual OCR and clause-level analysis.  
+---
 
-- **Robot Navigation Prediction**  
-  Decision tree classifier for robot navigation with 99.45% accuracy.  
+### About Me
+- B.Tech in Computer Science with AI @ IGDTUW (2022–2026)  
+- Focused on machine learning, generative AI, and practical applications  
+- Open to collaborations in research and development  
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushboo-Verma2004&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushboo-Verma2004&layout=compact&theme=default)  
+---
 
-<!--
-**Khushboo-Verma2004/Khushboo-Verma2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
+<div align="center">
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### Featured Projects
+- [**AI-Playwright Integration**](https://github.com/Khushboo-Verma2004/AI-Playwright-Integration) – Convert natural language into Playwright test scripts with Gemini API.  
+- [**VakilAI**](https://vakilai-amk-platform.onrender.com) – Multilingual AI-powered legal document assistant.  
+- **Robot Navigation Prediction** – Decision tree model with 99.45% accuracy.  
+
+---
+
+### GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushboo-Verma2004&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushboo-Verma2004&theme=tokyonight" height="160px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushboo-Verma2004&layout=compact&theme=tokyonight" height="160px" />
+</div>
+
+---
+
+### Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Khushboo-Verma2004&style=flat-square&color=blue" />
+</div>
+
