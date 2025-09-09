@@ -41,16 +41,6 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
-
----
-
-### Featured Projects
-- [**AI-Playwright Integration**](https://github.com/Khushboo-Verma2004/AI-Playwright-Integration) – Convert natural language into Playwright test scripts with Gemini API.  
-- [**VakilAI**](https://vakilai-amk-platform.onrender.com) – Multilingual AI-powered legal document assistant.  
-- **Robot Navigation Prediction** – Decision tree model with 99.45% accuracy.  
-
----
-
 ### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khushboo-Verma2004&show_icons=true&theme=tokyonight" height="160px" />
@@ -59,12 +49,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushboo-Verma2004&layout=compact&theme=tokyonight" height="160px" />
-</div>
-
----
-
-### Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khushboo-Verma2004&style=flat-square&color=blue" />
 </div>
 
