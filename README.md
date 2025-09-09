@@ -2,13 +2,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/khushboo-verma-02b265253/)
 
----
-
-## About Me
 I am a Computer Science undergraduate specializing in Artificial Intelligence at Indira Gandhi Delhi Technical University for Women.  
 My interests lie in machine learning, generative AI, and building practical applications that combine research with development.
-
----
 
 ## Skills
 - **Languages:** Java, Python, JavaScript, R, SQL, HTML/CSS  
