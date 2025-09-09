@@ -1,8 +1,10 @@
+
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1ABC9C&center=true&vCenter=true&width=500&lines=Khushboo+Verma;Computer+Science+with+AI;Machine+Learning+%7C+Generative+AI;Developer+%7C+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1ABC9C&center=true&vCenter=true&width=500&lines=Khushboo+Verma)](https://git.io/typing-svg)
 
 </div>
+
 
 ---
 
